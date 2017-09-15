@@ -1,0 +1,17 @@
+{
+  "name": "dadian",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "micro",
+    "dev": "micro-dev"
+  },
+  "dependencies": {
+    "micro": "^9.0.0",
+    "micro-query": "^0.2.0"
+  },
+  "devDependencies": {
+    "micro-dev": "^1.2.3"
+  }
+}
